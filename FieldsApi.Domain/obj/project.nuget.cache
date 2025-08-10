@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MqOaDx/uWg0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alche\\source\\repos\\FieldsApi\\FieldsApi.Domain\\FieldsApi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alche\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.302\\microsoft.net.sdk.compilers.toolset.9.0.302.nupkg.sha512"
+  ],
+  "logs": []
+}

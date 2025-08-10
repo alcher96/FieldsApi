@@ -1,0 +1,6 @@
+@FieldsApi_HostAddress = http://localhost:5145
+
+GET {{FieldsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
